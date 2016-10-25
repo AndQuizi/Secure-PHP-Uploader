@@ -2,7 +2,7 @@ Secure-PHP-Uploader
 Developed by Andrew Quizi  
 ===================
 
-Full Thesis Documentation: http://www.mediafire.com/view/vw189pius4mls84/Quizi-_Secure_Cloud_Computing_Thesis_FINAL1.docx
+Full Thesis Documentation: https://docs.google.com/document/d/1qlhJq9WZXaYi9oYP6p1CoIyinxH1OmMoV8VDVd0sKQA/edit?usp=sharing
 
 Developed as an application for my Thesis, this SaaS web application was created using PHP and MySQL.
 
